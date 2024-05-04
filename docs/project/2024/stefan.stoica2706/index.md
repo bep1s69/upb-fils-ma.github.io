@@ -1,7 +1,7 @@
 # Project Name
 Sensor Control System
 
-**Author**: Stoica Stefan Nicolae \
+**Author**: Stoica Stefan Nicolae
 **GitHub Project Link**: https://github.com/UPB-FILS-MA/project-bep1s69
 
 
